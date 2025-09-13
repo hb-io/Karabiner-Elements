@@ -15,7 +15,7 @@ struct KarabinerMultitouchExtensionApp: App {
 
   var body: some Scene {
     MenuBarExtra(
-      "Karabiner-MultitouchExtension", systemImage: "rectangle.and.hand.point.up.left.filled",
+      "Karabiner-MultitouchExtension", systemImage: "rectangle.and.hand.point.up.left.filled"
     ) {
       Text("Karabiner-MultitouchExtension \(version)")
 
